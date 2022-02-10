@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelTokenTest.App", "CancelTokenTest.App\CancelTokenTest.App.csproj", "{34E3A475-6FE8-48AF-8933-BD64F2217577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelTokenTest.Lib", "CancelTokenTest.Lib\CancelTokenTest.Lib.csproj", "{97F851C7-B25C-487C-B28D-3C2E6297EC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelTokenTest.App2", "CancelTokenTest.App2\CancelTokenTest.App2.csproj", "{6D84069B-B93F-4377-BC25-AB1884BF009B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelTokenTest.App3", "CancelTokenTest.App3\CancelTokenTest.App3.csproj", "{48C8635A-9E21-4CAA-873C-B1BB45C9676D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E3A475-6FE8-48AF-8933-BD64F2217577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E3A475-6FE8-48AF-8933-BD64F2217577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E3A475-6FE8-48AF-8933-BD64F2217577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E3A475-6FE8-48AF-8933-BD64F2217577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F851C7-B25C-487C-B28D-3C2E6297EC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F851C7-B25C-487C-B28D-3C2E6297EC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F851C7-B25C-487C-B28D-3C2E6297EC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F851C7-B25C-487C-B28D-3C2E6297EC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D84069B-B93F-4377-BC25-AB1884BF009B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D84069B-B93F-4377-BC25-AB1884BF009B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D84069B-B93F-4377-BC25-AB1884BF009B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D84069B-B93F-4377-BC25-AB1884BF009B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C8635A-9E21-4CAA-873C-B1BB45C9676D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C8635A-9E21-4CAA-873C-B1BB45C9676D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C8635A-9E21-4CAA-873C-B1BB45C9676D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C8635A-9E21-4CAA-873C-B1BB45C9676D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
